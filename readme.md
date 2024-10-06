@@ -1,0 +1,1 @@
+This is a sample repo for homelab k8s cluster.
